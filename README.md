@@ -13,7 +13,9 @@ $ git clone https://github.com/bm777/snns.git
 
 # Etape 3: dezipez
 Dezipper le fichier snns-master.zip
+
 $ unzip snns.git
+
 $ cd snns-master
 
 # Etape 4: rendez le fichier install.sh executable
