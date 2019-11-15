@@ -20,6 +20,7 @@ $ cd snns-master
 
 # Etape 4: rendez le fichier install.sh executable
 $ sudo chmod +x install
+
 $ sudo ./install.sh
 
 Enjoy :)
