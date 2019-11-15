@@ -19,7 +19,7 @@ $ unzip snns.git
 $ cd snns-master
 
 # Etape 4: rendez le fichier install.sh executable
-$ sudo chmod +x install
+$ sudo chmod +x install.sh
 
 $ sudo ./install.sh
 
